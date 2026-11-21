@@ -1,5 +1,7 @@
 # Genai Content Creation Suite
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 GenAI-powered content creation suite built with React, Vite & Docker.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
